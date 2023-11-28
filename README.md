@@ -31,7 +31,7 @@ Em meu tempo livre, além de estudar programação, gosto de jogar algumas coisa
 Meu foco na programação é o Back-End, mas com desejo de no futuro, me tornar Fullstack.
 
 <details align="left">
-  <summary>Informações Detalhadas (clique)</summary> 
+  <summary><strong>Informações Detalhadas (clique aqui)</strong></summary> 
  
 
   - **👱🏻 Nome**: Rodrigo Corrêa de Sá Farah
@@ -64,8 +64,10 @@ In my free time, besides studying programming, I like to play some games on the 
 
 My programming focus is Back-End, but I hope to become Fullstack in the future.
 
+
+
 <details align="left">
-  <summary>Detailed information (click)</summary> 
+  <summary><strong>Detailed information (click here)</strong></summary> 
  
 
   - **👱🏻 Name**: Rodrigo Corrêa de Sá Farah
