@@ -41,7 +41,9 @@ Meu foco na programação é o Back-End, mas com desejo de no futuro, me tornar 
 ## Curiosidades sobre mim
 
 * Fiz parte do time de Handebol e Vôlei da escola na qual terminei meu Ensino Médio, participei dos Jogos Escolares da minha cidade, e por 3 anos consecutivos fomos campeôes nas categorias Sub-13, Sub-15, Sub-18.
+
 * Comecei a estudar programação um pouco antes da Pandemia de Covid, e durante a pandemia, me interessei ainda mais por isso e decidi assim, iniciar uma faculdade na área.
+
 * Tenho uma certa facilidade em aprender e compreender as coisas, mas preciso estar interessado em aprender aquilo.
 
 *EN*
@@ -69,9 +71,9 @@ My programming focus is Back-End, but I hope to become Fullstack in the future.
 ## Curiosities about me
 
 * I was part of the Handball and Volleyball team at the school where I finished high school, I took part in the School Games in my city, and for 3 consecutive years we were champions in the U-13, U-15, U-18 categories.
-* 
+
 * I started studying programming just before the Covid Pandemic, and during the pandemic, I became even more interested in it and decided to start a degree in the area.
-* 
+
 * I have a certain ease in learning and understanding things, but I have to be interested in learning it.
 
 <!--
