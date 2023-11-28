@@ -20,7 +20,7 @@
 
 ## Fala ai! Beleza?
 
-Não sei como chegou a meu perfil, mas pode irei falar um pouco de mim, para que possa me conhecer um pouco.
+Não sei como chegou a meu perfil, mas irei falar um pouco de mim, para que possa me conhecer um pouco.
 
 ## Informações Públicas
 
@@ -30,13 +30,19 @@ Em meu tempo livre, além de estudar programação, gosto de jogar algumas coisa
 
 Meu foco na programação é o Back-End, mas com desejo de no futuro, me tornar Fullstack.
 
-## Informações Detalhadas
+<details align="left">
+  <summary>Informações Detalhadas (clique)</summary> 
+ 
 
-* **Nome**: Rodrigo Corrêa de Sá Farah
-* **Idade**: 21
-* **Moro em:**: Niterói - RJ, Brazil
-* **Stack**: Python - Java - C/C++/C#
-* **Universidade**: Ciência da Computação - Universidade Veiga de Alemida
+  - **👱🏻 Nome**: Rodrigo Corrêa de Sá Farah
+  - **⏳ Idade**: 21
+  - **🚩 Moro em**: Niterói - RJ, Brasil
+  - **🔎 Stack**: <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  - **🔭 Universidade**: Ciência da Computação - Universidade Veiga de Almeida
+  - **📫 Email:** `rodrigocsfarah@gmail.com`
+  - **✉️ Discord**: `@rcfarah` 
+</details>
+
 
 ## Curiosidades sobre mim
 
@@ -58,13 +64,18 @@ In my free time, besides studying programming, I like to play some games on the 
 
 My programming focus is Back-End, but I hope to become Fullstack in the future.
 
-## Detailed information
+<details align="left">
+  <summary>Detailed information (click)</summary> 
+ 
 
-* **Name**: Rodrigo Corrêa de Sá Farah
-* **Age**: 21
-* **Living in**: Niterói - RJ, Brazil
-* **Stack**: Python - Java - C/C++/C#
-* **University**: Computer Science - Veiga de Almeida University
+  - **👱🏻 Name**: Rodrigo Corrêa de Sá Farah
+  - **⏳ Age**: 21
+  - **🚩 Live In**: Niterói - RJ, Brasil
+  - **🔎 Stack**: <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  - **🔭 University**: Ciência da Computação - Universidade Veiga de Almeida
+  - **📫 Email:** `rodrigocsfarah@gmail.com`
+  - **✉️ Discord**: `@rcfarah` 
+</details>
 
 ## Curiosities about me
 
