@@ -24,7 +24,7 @@ Não sei como chegou a meu perfil, mas irei falar um pouco de mim, para que poss
 
 ## Informações Públicas
 
-Meu nome é Rodrigo Farah. Moro em Niterói, Brazil. Faço faculdade de Ciência da Computação na Universidade Veiga de Almeida.
+Meu nome é Rodrigo Farah. Moro em Niterói, Brasil. Faço faculdade de Ciência da Computação na Universidade Veiga de Almeida.
 
 Em meu tempo livre, além de estudar programação, gosto de jogar algumas coisas no PC, como exemplo: LoL, Rainbow Six Siege, Valorant e Fortnite.
 
